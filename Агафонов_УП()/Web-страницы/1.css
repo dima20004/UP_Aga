@@ -1,0 +1,29 @@
+.a{
+font-size: 30px;
+color:#951ed9;
+background-color: aqua;
+text-align: center;
+margin-bottom: 10px;
+}
+
+.b{
+    width: 400px;
+	border: 3px solid black;
+	padding: 3%;
+	font-family:Monotype Corsiva;
+	font-size: 24px;
+	background-color: rgb(204, 204, 255);
+	margin-left: 30vw;
+}
+
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat; 
+	background-size: cover;
+	-moz-background-size: 100%;
+    -webkit-background-size: 100%;
+}
+img{
+    float:left;
+	margin-right: 10vw
+}

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\bin\Debug\Экзамен_Агафонов.exe.config
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\bin\Debug\Экзамен_Агафонов.exe
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\bin\Debug\Экзамен_Агафонов.pdb
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.Form1.resources
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.Properties.Resources.resources
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.exe
+C:\Users\User\Desktop\Экзамен\Экзамен_Агафонов\Экзамен_Агафонов\obj\Debug\Экзамен_Агафонов.pdb
